@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.fmAbout.resources
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.fmMDIChild.resources
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.fmMain.resources
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.Properties.Resources.resources
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.Form2.resources
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FourthWindowsFormsApp\obj\Release\FourthWindowsFormsApp.csproj.CoreCompileInputs.cache
